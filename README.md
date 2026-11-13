@@ -1,4 +1,4 @@
-买鸡就到[AkileCloud](https://akile.ai)
-
-### 使用教程
-[AKDNS](https://dns.akile.ai/docs)
+curl -fsSL https://raw.githubusercontent.com/akile-network/aktools/refs/heads/main/akdns.sh \
+  -o /root/akdns.s &&
+chmod +x /root/akdns.s &&
+bash /root/akdns.sh
